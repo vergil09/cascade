@@ -1,0 +1,39 @@
+/* set styles for body */
+html, body {
+    height: 100%;
+    background-color: #fff;
+    padding-top: 50px;
+}
+/* set the style for page-header to green */
+.page-header{
+color: #133337;}
+
+/* set the style for navbar brand green */
+.navbar-brand{
+background-color: #133337;
+}
+
+/*removed for basic navbar inverse color*/
+
+/* Add your styles below with commenst */
+
+/*Carousel Image Height and width*/
+
+.item img {height: 400px !important;
+width: 100%;}
+
+/*Footer display and color*/
+li {display: inline;}
+
+ a:link {color: #16F1B4;}
+ 
+ /*table alignment, borders, and padding*/
+ 
+ table {padding: 5px;
+ text-align: center;}
+ 
+ tr {padding: 10px;
+ border: 1px solid black;}
+
+td {padding: 10px;
+ border: 1px solid black;}
